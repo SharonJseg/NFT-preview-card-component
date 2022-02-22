@@ -1,0 +1,14 @@
+:root {
+  /* Font families */
+  --ff-outfit: 'Outfit', sans-serif;
+
+  /* Font sizes */
+  --fs-400: 0.9375rem;
+  --fs-700: 1.35rem;
+
+  /* Colors */
+
+  --clr-background: #d5e1ef;
+  --clr-dark-navy: #1f314f;
+  --clr-gray: #7d889e;
+}
