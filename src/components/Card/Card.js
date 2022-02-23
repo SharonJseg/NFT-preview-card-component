@@ -2,7 +2,7 @@ import './Card.css';
 import cardImg from '../../images/image-equilibrium.jpg';
 import ethIcon from '../../images/icon-ethereum.svg';
 import clockIcon from '../../images/icon-clock.svg';
-import creatorImg from '../../images/image-avatar.png';
+import creatorImg from '../../images/my-img.jpg';
 import viewIcon from '../../images/icon-view.svg';
 
 const Card = () => {
@@ -47,7 +47,7 @@ const Card = () => {
             />
           </picture>
           <p>
-            Creation of <span className='card__creator-name'>Jules Wyvern</span>
+            Creation of <span className='card__creator-name'>Sharon Segal</span>
           </p>
         </div>
       </div>
