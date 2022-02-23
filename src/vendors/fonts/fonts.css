@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('Outfit-Light.woff') format('woff'),
+    url('Outfit-Light.woff') format('woff2');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('Outfit-Regular.woff') format('woff'),
+    url('Outfit-Regular.woff') format('woff2');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('Outfit-SemiBold.woff') format('woff'),
+    url('Outfit-SemiBold.woff') format('woff2');
+}

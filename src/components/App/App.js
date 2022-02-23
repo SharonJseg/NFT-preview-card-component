@@ -1,9 +1,11 @@
 import './App.css';
 
+import Card from '../Card/Card';
+
 function App() {
   return (
-    <div className='App'>
-      <h1>hi</h1>
+    <div className='app'>
+      <Card />
     </div>
   );
 }
